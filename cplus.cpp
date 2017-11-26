@@ -9,7 +9,7 @@ int main(){
 	int kon[] = {23,3,46,21,40,6};
 	int lez = sizeof(kon)/4;
 	
-	cout<<"size of array: "<<lez;
+	cout<<"size of array: "<<lez; //printing the array size
 
 	for(int i=0;i>lez;i++){
 		cout<<kon[i];
